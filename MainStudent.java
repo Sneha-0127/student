@@ -1,5 +1,3 @@
-package Student;
-
 public class MainStudent {
 
     String name;
